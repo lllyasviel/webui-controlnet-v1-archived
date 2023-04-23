@@ -6,6 +6,12 @@ The Install git link for WebUI is `https://github.com/lllyasviel/webui-controlne
 
 **You need to completely remove this old version if you want to update/install ControlNet WebUI Extension V1.1.**
 
+If you want to use this version, after install this old version 1.0, make sure that your setting is exactly same as:
+
+![image](https://user-images.githubusercontent.com/19834515/233828204-02555190-3a6d-4a69-a84e-17443e759f6d.png)
+
+and make sure that you have completely restarted your A1111 (including your terminal).
+
 This archive is mainly for performance comparison. If you sometimes feel ControlNet 1.0 gives better results than 1.1, you may use this archive to verify if that is your feeling or that is true.
 
 **We want to make sure that ControlNet 1.1 gives better results than 1.0 in at least 80\% cases and gives similar results in the remaining 20\% cases.** If you can find any case that this archived 1.0 version is better, please let us know in the [Issue of ControlNet 1.1](https://github.com/Mikubill/sd-webui-controlnet/issues).
