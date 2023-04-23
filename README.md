@@ -1,3 +1,15 @@
+## Archived Version of ControlNet WebUI Extension V1
+
+The Install git link for WebUI is `https://github.com/lllyasviel/webui-controlnet-v1-archived.git`
+
+**You need to completely remove ControlNet WebUI Extension V1.1 if you use this old version.**
+
+**You need to completely remove this old version if you want to update/install ControlNet WebUI Extension V1.1.**
+
+This archive is mainly for performance comparison. If you sometimes feel ControlNet 1.0 gives better results than 1.1, you may use this archive to verify if that is your feeling or that is true.
+
+**We want to make sure that ControlNet 1.1 gives better results than 1.0 in at least 80\% cases and gives similar results in the remaining 20\% cases.** If you can find any case that this archived 1.0 version is better, please let us know in the [Issue of ControlNet 1.1](https://github.com/Mikubill/sd-webui-controlnet/issues).
+
 ## sd-webui-controlnet
 (WIP) WebUI extension for ControlNet and T2I-Adapter
 
